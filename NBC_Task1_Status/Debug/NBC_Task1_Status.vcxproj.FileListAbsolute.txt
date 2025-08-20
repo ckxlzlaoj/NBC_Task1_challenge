@@ -1,0 +1,2 @@
+C:\Users\user\source\repos\NBC_Task1_Status\Debug\NBC_Task1_Status.exe
+C:\Users\user\source\repos\NBC_Task1_Status\Debug\NBC_Task1_Status.pdb
